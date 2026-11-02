@@ -12,5 +12,9 @@
     "type": "commonjs",
     "devDependencies": {
         "supabase": "^2.122.0"
+    },
+    "dependencies": {
+        "eciesjs": "^0.5.0",
+        "jose": "^6.2.14"
     }
 }
