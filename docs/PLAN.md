@@ -33,8 +33,8 @@ OrbitriX is a Student Lifecycle Platform for Maatram (problem MH26-05). One pers
 
 - Phase 0: done
 - Phase 1: done
-- Phase 2: in progress
-- Phase 3: next
+- Phase 2: done
+- Phase 3: in progress
 - Phases 4 to 11: planned
 
 ## Phases (build in this order)
